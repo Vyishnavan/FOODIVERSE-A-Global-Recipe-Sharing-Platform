@@ -1,0 +1,8 @@
+ Colour Scheme 
+The colour palette adopts a warm, appetizing scheme that evokes culinary enthusiasm while maintaining professionalism. The primary colours include:
+
+Primary: #D95F18 (Bold Orange)
+Secondary: #401B06 (Dark Brown)
+Neutral Base: #F2DCC2 (Warm Cream)
+Accent 1: #F2B84B (Warm Yellow)
+Accent 2: #B2BF4B (Olive Green)
